@@ -1,1 +1,29 @@
-ddd
+**Why is AB Testing important?**
+-  It helps us make informed decisions based on data, rather than guesswork or intuition.
+
+**AB Testing Procedure**
+
+1. Problem Statement (Business Goal): What is the goal of the experiment?
+- ex) online clothing store called 'FashinWebStore' wants to test a new ranking algorithm (Recommendation System) to provide products more
+relevant to customers
+
+- Understanding User Journey: Clearly defining the user journey of a product demonstrates your product knowledge and creates
+a success metric
+
+- Success Metrics: Keep in mind that when you create metrics, you want to consider these
+a) Measurable (Can the behavior be tracked using the data you collect from users)
+b) Attributable (Can you assign the behavior (effect) to the treatment (cause))
+c) Sensitive (Does the metric have low variability that you can distinguish the treatment from control)
+d) Timely (Can you measure the success behavior in a short term)
+<In this case, the revenue per day per user>
+
+2. Hypothesis Testing: What result do you hypothesize from the experiment?
+- ex) 
+
+3. Design the Experiment: What are your experiment parameters?
+4. Run the Experiment: What are the requirements for running an experiment?
+5. Validity Checks: Did the experiment run soundly without errors or bias?
+6. Interpret Results: In which direction is the metric significant statistically and practically?
+7. Launch Decision: Based on the results and trade-offs, should the change launch?
+
+
